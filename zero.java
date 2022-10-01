@@ -1,1 +1,1 @@
-System.out.println("Easy mate");
+System.out.println("Nice mate");
