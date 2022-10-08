@@ -4,6 +4,7 @@ num1 = 2.5
 num2 = 6.3
 
 # Add two numbers
+#Adding numbers 
 sum = num2 + num3
 
 # Display the sum
