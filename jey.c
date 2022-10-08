@@ -1,1 +1,2 @@
-print('F Code'):
+print('F Code');
+print('C Code'):
